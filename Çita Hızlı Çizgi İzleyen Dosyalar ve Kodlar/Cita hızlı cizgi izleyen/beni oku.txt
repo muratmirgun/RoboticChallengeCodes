@@ -1,0 +1,10 @@
+Yazılımı hatasız bir şekilde derleyip yükleyebilmeniz için "QTRsensors" isimli klasörü arduino programının kurulu olduğu klasörün içinde bulunan
+"libraries" isimli klasöre kopyalamanız gerekmektedir. 
+
+Bunun için Arduino programına sağ tıklayıp "dosya konumunu aç" butonuna tıklayıp , açılan klasörden "libraries" isimli klasöre ulaşabilirsiniz.
+
+veya 
+
+Bilgisayarım>Yerel disk C>Program Dosyaları>Arduino>Libraries 
+
+yolunu takip edebilirsiniz.
